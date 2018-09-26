@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\bin\Debug\Higer or Lower.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer_or_Lower.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer_or_Lower.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\bin\Debug\Higer or Lower.exe
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\bin\Debug\Higer or Lower.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.exe
+c:\users\admin\documents\visual studio 2013\Projects\Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\001Higer or Lower\Higer or Lower\bin\Debug\Higer or Lower.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\001Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\001Higer or Lower\Higer or Lower\obj\Debug\Higer or Lower.pdb
